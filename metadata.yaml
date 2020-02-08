@@ -1,0 +1,27 @@
+_repo: Hiwa-A-Tale-of-Ancient-Hawaii_61148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dole, Edmund P. (Edmund Pearson)
+    alias: Dole, Edmund Pearson
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '51282'
+    url: http://www.gutenberg.org/2009/agents/51282
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Pearson_Dole
+description: ''
+gutenberg_issued: '2020-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61148'
+  lccn: 00002697
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hawaii -- Fiction'
+- GITenberg
+title: 'Hiwa: A Tale of Ancient Hawaii'
+url: http://www.gutenberg.org/ebooks/61148
